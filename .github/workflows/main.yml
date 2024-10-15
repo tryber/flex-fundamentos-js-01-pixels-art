@@ -6,7 +6,7 @@ jobs:
       permissions:
         contents: write
         pull-requests: write
-      uses: betrybe/evaluator-workflows/.github/workflows/main-javascript.yml@main
+      uses: betrybe/evaluator-workflows/.github/workflows/main-cypress.yml@main
       secrets:
         token: ${{ secrets.GITHUB_TOKEN }}
         pat: ${{ secrets.GIT_HUB_PAT }}
