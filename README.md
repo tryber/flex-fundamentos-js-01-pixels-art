@@ -65,7 +65,7 @@ Para corrigir o seu desenvolvimento através do avaliador automático, você dev
 
 6. Crie um novo `Pull Request` _(PR)_
 
-* Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-pixels-art/pulls)
+* Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/flex-fundamentos-js-01-pixels-art/pulls)
 * Clique no botão verde _"New pull request"_
 * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
 * Coloque um título para a sua Pull Request
@@ -73,7 +73,7 @@ Para corrigir o seu desenvolvimento através do avaliador automático, você dev
 * Clique no botão verde "Create pull request"
 * Adicione uma descrição para o _Pull Request_, e clique no botão verde _"Create pull request"_
 * **Não se preocupe em preencher mais nada por enquanto!**
-* Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-pixels-art/pulls) e confira que o seu _Pull Request_ está criado
+* Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/flex-fundamentos-js-01-pixels-art/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
@@ -104,7 +104,7 @@ Para corrigir o seu desenvolvimento através do avaliador automático, você dev
 
 :warning: **É importante que seus arquivos tenham exatamente estes nomes!** :warning:
 
-* Você pode adicionar outros arquivos se julgar necessário. Caso tenha alguma dúvida, poste no _Slack_;
+* Você pode adicionar outros arquivos se julgar necessário. 
 
  ⚠️ **Recomenda-se que você desenvolva seu projeto com a resolução de tela  de `1366 x 768`, a mesma que será utilizada pelo avaliador. Para facilitar a configuração da resolução, use este [plugin do `Chrome`](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en).** ⚠️
 
@@ -198,8 +198,7 @@ Assista [este vídeo](https://vimeo.com/539240375/a116a166b9) para ver como roda
 </details>
 
 <details>
-  <summary><strong>🔗 Links auxiliares para o desenvolvimento
-do projeto</strong></summary>
+  <summary><strong>🔗 Links auxiliares para o desenvolvimento do projeto</strong></summary>
 
 * Como pessoa desenvolvedora você deve fazer pesquisas para auxiliar o seu entendimento do assunto. Assim, para solucionar os requisitos do projeto é inevitável e estimulado que pesquisas sejam feitas nas mais variadas fontes (plataforma da Trybe, google, youtube, etc) sempre tomando cuidado para utilizar fontes **confiáveis** nas pesquisas da Internet, como por exemplo:
 
